@@ -17,9 +17,9 @@ const Navbar = () => (
       className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}
     >
       <img
-        src="/logo1.svg"
+        src="/logoo.png"
         alt="logo"
-        className="w-[54px] h-[54px] object-contain "
+        className="w-[104px] h-[44px] object-contain rounded-3xl mt-0"
       />
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
         MIXKIT studios
